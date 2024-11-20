@@ -3,6 +3,7 @@
 In this project, I performed an Exploratory Data Analysis (EDA) on a dataset of apps available on the Google Play Store. The analysis was conducted using Python and libraries such as Pandas, NumPy, Matplotlib, and Seaborn to explore and visualize the relationships within the dataset.
 
 Key Insights:
+
 Top 20 Apps with Rating > 4.5:
 
 Filtered the apps with ratings above 4.5 and visualized the top 20. This allows us to quickly identify high-rated apps and their distribution across different genres and categories.
